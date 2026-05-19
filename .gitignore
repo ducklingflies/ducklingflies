@@ -202,5 +202,7 @@ dist
 .open-next/
 next-env.d.ts
 
+/.vs
+
 ### Claude ###
 CLAUDE.md
